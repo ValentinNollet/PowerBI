@@ -1,5 +1,10 @@
-# Mes PowerBI
+# PowerBI
 
-## Ici, vous trouverez mes projets Power BI, incluant des dashboards interactifs et des analyses de données.   Chaque projet explore différentes sources de données et met en avant des visualisations claires pour faciliter l'interprétation des informations.  
+## 📊 Ici, vous trouverez les différentes Analayse de données que j'ai pu réaliser sur PowerBI.   
 
-[PowerBI1](Apple%20CA.pbix)
+
+Vous pouvez vous amusez à télécharger les différents DashBoards que j'ai pu réaliser grâce à PowerBI.   
+N'hésitez pas à explorer, commenter et partager vos retours !  
+^^
+
+
